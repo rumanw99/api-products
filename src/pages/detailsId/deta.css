@@ -1,0 +1,19 @@
+.detailsId{
+    width: 90%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.detailsId_left{
+width: 400px;
+}
+.detailsId_left img{
+width: 100%;
+}
+
+.detailsId_right{
+    width: 800px;
+}
